@@ -1,0 +1,2 @@
+#!/bin/sh
+python /home/adhinag1/CS557/adhinag1-p1/http_server.py
